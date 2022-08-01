@@ -1,0 +1,8 @@
+.vs/
+geos/_bin/
+geos/_temp/
+geos_c/_bin/
+geos_c/_temp/
+ryu/_bin/
+ryu/_temp/
+
